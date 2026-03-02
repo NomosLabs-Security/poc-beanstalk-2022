@@ -1,0 +1,6 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+# Beanstalk governance exploit — April 2022
+fork_block_number = 14602790
